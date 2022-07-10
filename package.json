@@ -1,0 +1,18 @@
+{
+  "name": "moniranetworking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "ws": "^8.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
